@@ -1,12 +1,13 @@
 <?php
 function counter_effect($hit_count) {
-  // Your code here
+  // create big array
 	$countarray = array();
 	$strnum_array = str_split($hit_count);
   //print_r($strnum_array);
 	foreach( $strnum_array as &$i ){
 		$i = intval($i);
 
+		// loops through numbers in array to add 0 through $i into an array 
 		for($j = 0;$j < $i+1; $j++){
 			if($j==0){
 				$jarray = array();
@@ -36,5 +37,6 @@ function traverseArray($array)
         }
     }
 }
+// echo list of numbers in multidimensional array
 traverseArray(counter_effect(1234123123123));
 ?>
