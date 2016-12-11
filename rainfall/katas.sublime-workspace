@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"flex-",
+				"flex-start"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 72,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data.php",
+			"settings":
+			{
+				"buffer_size": 2578,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/sandbox/katas"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/sandbox/LFworkshop/style.css",
+		"/C/wamp64/www/sandbox/LFworkshop/index.html",
+		"/C/wamp64/www/sandbox/LFworkshop/main.js",
+		"/C/wamp64/www/sandbox/tir/includes/pwfunctions.php",
+		"/C/wamp64/www/sandbox/tir/user/change_pass_email.php",
+		"/C/wamp64/www/sandbox/tir/includes/header.php",
+		"/C/wamp64/www/sandbox/tir/css/main.css",
+		"/C/wamp64/www/sandbox/tir/home.php",
+		"/C/wamp64/www/sandbox/tir/forgotpass.php",
+		"/C/wamp64/www/sandbox/tir/login.php",
+		"/C/wamp64/www/sandbox/tir/deletelive.php",
+		"/C/wamp64/www/sandbox/tir/golive.php",
+		"/C/wamp64/www/sandbox/tir/js/functions.js",
+		"/C/wamp64/www/sandbox/tir/nostress.php",
+		"/C/wamp64/www/sandbox/tir/css/shows.css",
+		"/C/wamp64/www/sandbox/tir/includes/db.php",
+		"/C/wamp64/www/sandbox/tir/user/delete_account.php",
+		"/C/wamp64/www/sandbox/tir/home.html",
+		"/C/wamp64/www/sandbox/tir/user/headline.php",
+		"/C/wamp64/www/sandbox/tir/includes/functions.php",
+		"/C/wamp64/www/sandbox/tir/ticket_giveaway.php",
+		"/C/wamp64/www/sandbox/tir/user/giveaway_entries.php",
+		"/C/wamp64/www/sandbox/tir/user/ticket_giveaway.php",
+		"/C/wamp64/www/sandbox/tir/user/change_pass.php",
+		"/C/wamp64/www/sandbox/tir/user/edit_dj.php",
+		"/C/wamp64/www/sandbox/tir/css/nav.css",
+		"/C/wamp64/www/sandbox/tir/css/footer.css",
+		"/C/wamp64/www/sandbox/tir/user/edit_account.php",
+		"/C/wamp64/www/sandbox/tir/customer_login.php",
+		"/C/wamp64/www/sandbox/tir/unlive.php",
+		"/C/wamp64/www/sandbox/tir/css/admincss.css",
+		"/C/wamp64/www/sandbox/tir/my_account.php",
+		"/C/wamp64/www/sandbox/tir/css/form.css",
+		"/C/wamp64/www/sandbox/tir/results.php",
+		"/C/wamp64/www/sandbox/tir/js/jqueryfuncs.js",
+		"/C/wamp64/www/sandbox/tir/user/logout.php",
+		"/C/wamp64/www/sandbox/tir/includes/admin_header.php",
+		"/C/wamp64/www/sandbox/tir/includes/admin_footer.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/wamp64/www/sandbox/tir/css/css.css",
+		"/C/wamp64/www/sandbox/tir/includes/customer_login.php",
+		"/C/wamp64/www/sandbox/tir/user/my_account.php",
+		"/C/wamp64/www/sandbox/tir/includes/login.php",
+		"/C/wamp64/www/sandbox/tir/header.php",
+		"/C/wamp64/www/sandbox/tir/footer.php",
+		"/C/wamp64/www/sandbox/tir/functions.js",
+		"/C/wamp64/www/sandbox/tir/tir.sublime-project",
+		"/C/Users/Brad/Desktop/webdesign/tir/home.html",
+		"/C/Users/Brad/Desktop/webdesign/tir/css/nav.css",
+		"/C/Users/Brad/Desktop/webdesign/tir/.git/info/exclude",
+		"/C/wamp64/www/sandbox/tir/public/new_account.php",
+		"/C/wamp64/www/sandbox/tir/public/new_gallery.php",
+		"/C/wamp64/www/sandbox/tir/public/manage_content.php",
+		"/C/wamp64/www/sandbox/tir/public/new_page.php",
+		"/C/wamp64/www/sandbox/tir/public/admin.php",
+		"/C/wamp64/www/sandbox/tir/public/manage_accounts.php",
+		"/C/wamp64/www/sandbox/tir/public/delete_account.php",
+		"/C/wamp64/www/sandbox/tir/public/create_account.php",
+		"/C/wamp64/www/sandbox/tir/includes/validation_functions.php",
+		"/C/wamp64/www/sandbox/tir/public/logout.php",
+		"/C/wamp64/www/sandbox/tir/public/style/public.css",
+		"/C/wamp64/www/sandbox/tir/public/login.php",
+		"/C/Users/Brad/AppData/Roaming/Sublime Text 3/Packages/User/chrome build.sublime-build",
+		"/C/wamp64/www/sandbox/tir/includes/layouts/footer.php",
+		"/C/wamp64/www/sandbox/tir/includes/layouts/header.php",
+		"/C/wamp64/www/sandbox/tir/includes/db_connection.php",
+		"/C/wamp64/www/sandbox/cmsdemo/public/test.php",
+		"/C/wamp64/www/sandbox/cmsdemo/includes/functions.php",
+		"/C/wamp64/www/sandbox/cmsdemo/public/manage_admins.php",
+		"/C/wamp64/www/sandbox/cmsdemo/includes/db_connection.php",
+		"/C/wamp64/www/sandbox/public_html/wp-config.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"movie",
+			"\tvar title = movie[\"im:name\"].label;\n\t//console.log('title: ', title, 'url: ', image_url);\n\tvar movie_poster = $(\"<div>\").addClass('movie_poster');\n\tmovie_poster.click(show_movie_info.bind(null, movie));\n\tvar movie_title = $(\"<div>\",{\n\t\ttext: title\n\t});\n\tvar movie_image = $(\"<img>\", {\n\t\tsrc: image_url\n\t});\n\n\tmovie_poster.append(movie_title, movie_image);\n\t$(\"#movie_posters\").append(movie_poster);\n\n",
+			"assoc",
+			"secQ",
+			"user_email",
+			"name",
+			"user_id",
+			"admins",
+			"password",
+			"id",
+			"$mySQL",
+			"list_headline",
+			"find_giveaways",
+			"border-bottom",
+			"navlogo",
+			"form",
+			"images",
+			"$c_image_tmp",
+			"images",
+			"customer_images",
+			"customer_image",
+			"hr",
+			"#footer1",
+			"$color3",
+			"$color2",
+			"$color1",
+			"found_admin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user_id",
+			"$con",
+			"#footerjoin",
+			"white",
+			"grey",
+			"black"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1290,
+								1290
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 5,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/chrome build.sublime-build",
+	"project": "katas.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\wamp64\\www\\sandbox\\tir\\tir.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
