@@ -25,18 +25,22 @@ function counter_effect($hit_count) {
 function traverseArray($array)
 {
     // Loops through each element. If element again is array, function is recalled. If not, result is echoed.
+    echo "<br />\n";
     foreach ($array as $key => $value)
     {
+    	
         if (is_array($value))
         {
             traverseArray($value);
         }
         else
         {
-            echo $value . "<br />\n";
+            echo $value 
+            //. "<br />\n"
+            ;
         }
     }
 }
 // echo list of numbers in multidimensional array
-traverseArray(counter_effect(1234123123123));
+traverseArray(counter_effect(436000));
 ?>

@@ -25,6 +25,16 @@
 			}
 		},
 		{
+			"file": "/C/wamp64/www/sandbox/katas/counter/index.php",
+			"settings":
+			{
+				"buffer_size": 1013,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
 			"file": "data.php",
 			"settings":
 			{
@@ -67,7 +77,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/sandbox/katas"
+		"/C/wamp64/www/sandbox/katas",
+		"/C/wamp64/www/sandbox/katas/rainfall"
 	],
 	"file_history":
 	[
@@ -209,7 +220,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -225,8 +236,8 @@
 						"selection":
 						[
 							[
-								43,
-								43
+								72,
+								72
 							]
 						],
 						"settings":
@@ -237,11 +248,40 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "/C/wamp64/www/sandbox/katas/counter/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "data.php",
 					"semi_transient": false,
 					"settings":
@@ -268,7 +308,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
